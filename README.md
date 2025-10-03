@@ -20,21 +20,4 @@ Bienvenido a mi **Perfil**, donde compartire sobre mis intereses y habilidades.
 
 ---
 
-## 📚 Proyectos destacados
-Aquí puedes enlazar algunos de tus proyectos o prácticas:  
-- Proyecto 1: [Nombre del proyecto](#)  
-- Proyecto 2: [Nombre del proyecto](#)  
-
-*(Puedes agregar más según vayas avanzando)*  
-
----
-
-## 📫 Contacto
-Si quieres conocerme mejor o colaborar en proyectos:  
-- ✉️ Email: [tu-email@example.com]  
-- 🔗 LinkedIn: [tu-linkedin](#)  
-- 🐙 GitHub: [tu-github](#)  
-
----
-
 > “La **curiosidad** es el motor del aprendizaje continuo.”
