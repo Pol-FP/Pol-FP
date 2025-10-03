@@ -1,6 +1,6 @@
-# 👋 Hola, soy [Tu Nombre]
+# 👋 Hola, soy Pol Castaño
 
-Bienvenido a mi **repositorio personal**, donde me presento y comparto un poco sobre mis intereses y habilidades.
+Bienvenido a mi **Perfil**, donde compartire sobre mis intereses y habilidades.
 
 ---
 
