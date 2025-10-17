@@ -13,7 +13,7 @@ Estudiante de grado Medio muy interesado por aprender y el mundo de la informati
 ---
 
 ## 🛠 Habilidades
-- **Lenguajes de programación:** Python, JavaScript, HTML/CSS  
+- **Lenguajes de programación:** Python, JavaScript, HTML/CSS   ![Python](https://img.shields.io/badge/language-Python-blue)
 - **Automatización de tareas simples**  
 - **Algoritmos y estructuras de datos**  
 - **Control de versiones:** Git & GitHub  
