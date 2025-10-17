@@ -8,6 +8,7 @@ Estudiante de grado Medio muy interesado por aprender y el mundo de la informati
 - Soy una persona **curiosa**, siempre buscando aprender cosas nuevas.  
 - Me apasiona la **automatización** y encontrar formas de hacer tareas más eficientes.  
 - Me encantan los videojuegos como el factorio
+
 ![Imagen de cinta transportadora factorio](https://images.g2a.com/470x276/1x1x0/factorio-steam-gift-global-i10000011359003/5b9f7db5ae653a11fd22ffbd)
 ---
 
