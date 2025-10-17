@@ -1,14 +1,14 @@
-# 👋 Hola, soy Pol Castaño
+# 👋 Hola, soc Pol Castaño
 
-Bienvenido a mi **Perfil**, donde compartire sobre mis intereses y habilidades.
+Estudiante de grado Medio muy interesado por aprender y el mundo de la informatica
 
 ---
 
 ## 💡 Sobre mí
 - Soy una persona **curiosa**, siempre buscando aprender cosas nuevas.  
 - Me apasiona la **automatización** y encontrar formas de hacer tareas más eficientes.  
-- Estudiante de **ciclo medio de informática**, explorando diferentes áreas de la tecnología.
-
+- Me encantan los videojuegos como el factorio
+![Imagen de cinta transportadora factorio](https://images.g2a.com/470x276/1x1x0/factorio-steam-gift-global-i10000011359003/5b9f7db5ae653a11fd22ffbd)
 ---
 
 ## 🛠 Habilidades
